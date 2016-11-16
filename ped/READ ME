@@ -1,0 +1,4 @@
+1) Please download the inria Person dataset from the link below :
+	http://pascal.inrialpes.fr/data/human/
+
+2) Create Two folders in the ped folder that you downloaded i.e singlepedestrians and multiplepedestrians and upload it with the same number of images from the test folder in Inria Person dataset and then run the code.
